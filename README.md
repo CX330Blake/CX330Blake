@@ -1,7 +1,7 @@
 ### Hello world, build the universe with me!!!
 ![snake](https://github.com/CX330Blake/CX330Blake/blob/output/github-contribution-grid-snake.svg)
 
-<h1 align="center">Hello world, I'm CX330Blake</h1>
+<h1 align="center">Hello world, I'm CX330</h1>
 <h3 align="center">Undergraduate | CTF | Hacker | Developer | Python | JavaScript | C | Java | React | - Build the universe with me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cx330blake&label=Profile%20views&color=0e75b6&style=flat" alt="cx330blake" /> </p>
