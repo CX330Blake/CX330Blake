@@ -4,7 +4,7 @@
 <h1 align="center">Hello world, I'm CX330Blake</h1>
 <h3 align="center">Undergraduate | Hacker | Developer | CTF | Python | JavaScript | C | Java | React |<br/> - Build the universe with me</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cx330blake&label=Profile%20views&color=0e75b6&style=flat" alt="cx330blake" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cx330blake&label=Profile%20views&color=FFC0CB&style=flat" alt="cx330blake" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cx330blake" alt="cx330blake" /></a> </p>
 
