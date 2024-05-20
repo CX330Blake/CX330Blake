@@ -1,7 +1,7 @@
 ### Hello world, build the universe with me!!!
 ![snake](https://github.com/CX330Blake/CX330Blake/blob/output/github-contribution-grid-snake.svg)
 
-<h1 align="center">Hello world, I'm CX330</h1>
+<h1 align="center">Hello world, I'm CX330Blake</h1>
 <h3 align="center">Undergraduate | CTF | Hacker | Developer | Python | JavaScript | C | Java | React | - Build the universe with me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cx330blake&label=Profile%20views&color=0e75b6&style=flat" alt="cx330blake" /> </p>
@@ -10,6 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/%E5%AD%90%E9%9B%8B-%E9%99%B3-11087825b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="陳子雋" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011698690769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="陳子雋" height="30" width="40" /></a>
+<a href="https://instagram.com/matthew_happiness_1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matthew_happiness_1207" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cx330blake&show_icons=true&locale=en" alt="cx330blake" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cx330blake&" alt="cx330blake" /></p>
-
