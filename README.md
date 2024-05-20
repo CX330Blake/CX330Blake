@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello world, build the universe with me!!!
+![snake](https://github.com/CX330Blake/CX330Blake/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **CX330Blake/CX330Blake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
