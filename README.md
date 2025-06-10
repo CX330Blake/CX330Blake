@@ -17,9 +17,9 @@
 
 <h3 align="left">My Projects:</h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cx330blake&repo=black-hat-zig&show_owner=true&theme=radical)](https://github.com/cx330blake/black-hat-zig)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cx330blake&repo=spell-whisperer&show_owner=true&theme=radical)](https://github.com/cx330blake/spell-whisperer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cx330blake&repo=zyra&show_owner=true&theme=radical)](https://github.com/cx330blake/zyra)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cx330blake&repo=black-hat-zig&show_owner=true&theme=radical)](https://github.com/cx330blake/black-hat-zig)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cx330blake&repo=zype&show_owner=true&theme=radical)](https://github.com/cx330blake/zype)
 
 
