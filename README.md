@@ -6,7 +6,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cx330blake&label=Profile%20views&color=FF79BC&style=flat" alt="cx330blake" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cx330blake&theme=radical" alt="cx330blake" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cx330blake&theme=radical" alt="cx330blake" /></a> </p> -->
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=108129644" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=108129644&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @CX330Blake" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=108129644&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
@@ -15,7 +26,7 @@
 <a href="https://instagram.com/matthew_happiness_1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matthew_happiness_1207" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Projects:</h3>
+<!-- <h3 align="left">My Projects:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cx330blake&repo=black-hat-zig&show_owner=true&theme=radical)](https://github.com/cx330blake/black-hat-zig)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cx330blake&repo=spell-whisperer&show_owner=true&theme=radical)](https://github.com/cx330blake/spell-whisperer)
@@ -30,4 +41,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cx330blake&show_icons=true&locale=en&theme=radical" alt="cx330blake" /></p>
 
-<p><img align="center" src="[https://streak-stats.demolab.com/?user=cx330blake&theme=radical](https://github.com/CX330Blake)" alt="cx330blake" /></p>
+<p><img align="center" src="[https://streak-stats.demolab.com/?user=cx330blake&theme=radical](https://github.com/CX330Blake)" alt="cx330blake" /></p> -->
